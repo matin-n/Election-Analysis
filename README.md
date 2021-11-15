@@ -80,7 +80,7 @@ while not os.path.isfile(os.path.join("Resources", election_file)):
 The second proposal is to conduct further analysis by analyzing supplemental data, such as the election results of each year. For example, we could modify the `election_results.csv` to include the election results of each year as a new column and have the script read the new columns. The yearly data can be achieved by making the script read multiple CSV files and then merge the dataset into a single CSV file or conduct the analysis in memory without writing to a new column. We could then conduct additional analysis for each year and compare the results. Resources to achieve this task can be found with [Pandas library](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html) or [files.write()](https://www.kite.com/python/answers/how-to-concatenate-two-csv-files-in-python).
 
 ## Resources
-- Data Source: `election_results.csv`
-- Source Code: `PyPoll_Challenge.py`
-- Analysis Results: `election_analysis.txt`
-- Software: Python 3.9, PyCharm 2021.1.1
+- Source Code: [`PyPoll_Challenge.py`](https://github.com/matin-n/Election_Analysis/blob/main/PyPoll_Challenge.py)
+- Data Source: [`election_results.csv`](https://github.com/matin-n/Election_Analysis/blob/main/Resources/election_results.csv)
+- Analysis Results: [`election_analysis.txt`](https://github.com/matin-n/Election_Analysis/blob/main/Analysis/election_analysis.txt)
+- Software: [Python 3.9](https://www.python.org/downloads/release/python-390/), [JetBrains PyCharm 2021](https://www.jetbrains.com/pycharm/)
