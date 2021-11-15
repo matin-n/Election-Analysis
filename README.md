@@ -16,17 +16,9 @@ A Colorado Board of Elections employee has been given the following tasks to com
 
 ## Election Audit Results
 The analysis shows that:
-- There were 369,711 votes cast in the election.
-- The counties results:
-  - Jefferson
-    - Received 10.5% of the votes and 38,855 votes
-  - Denver
-    - Received 82.8% of the votes and 306,055 votes
-  - Arapahoe
-    - Received 6.7% of the votes and 24,801 votes
-- The largest county turnout rate:
-    - Denver, who acquired 82.% of the votes and 306,055 number of votes
-- The candidates results:
+- There were 369,711 votes cast in the election
+#### Candidate
+The candidates results:
   - Charles Casper Stockham
     -  Received 23.0% of the votes and 85,213 votes
   - Diana DeGette
@@ -35,7 +27,18 @@ The analysis shows that:
     - Received 3.1% of the votes and 11,606 votes
 - The winner of the election was:
   - Diana DeGette, who acquired 73.8% of the votes and 272,892 number of votes
+ #### County 
+The counties results:
+  - Jefferson
+    - Received 10.5% of the votes and 38,855 votes
+  - Denver
+    - Received 82.8% of the votes and 306,055 votes
+  - Arapahoe
+    - Received 6.7% of the votes and 24,801 votes
+- The largest county turnout rate:
+    - Denver, who acquired 82.% of the votes and 306,055 number of votes
 
+#### Election Analysis 
 ```
 Election Results
 -------------------------
